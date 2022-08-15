@@ -1,0 +1,29 @@
+/* ::selection{
+  Property: value;
+} */
+body{
+  background-image: url(fuji.jpg);
+  background-size: cover;
+}
+h2,p{
+  color: blue;
+  text-align: center;
+  border: 5px solid rgba(25, 55, 89, 0.5);
+  cursor: pointer;
+}
+p{
+  color: green;
+}
+li{
+  list-style: none;
+  display: inline-block;
+}
+.webtext{
+  border: 5px dashed rgba(25, 55, 89, 0.5);
+}
+.active{
+  color: coral;
+}
+#div1{
+  background: rgba(0, 0, 255, 0.5);
+}
