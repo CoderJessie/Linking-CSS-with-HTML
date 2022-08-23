@@ -1,0 +1,20 @@
+/* ::selection{
+  Property: value;
+}*/
+body{
+  background-image: url(fuji.jpg);
+  background-size: cover;
+}
+h2{
+  color: rgb(46, 214, 131);
+  text-align: center;
+  border: 5px solid palegoldenrod;
+  cursor: pointer;
+}
+p{
+  color: gold;
+}
+li{
+  list-style: none;
+  display: inline-block;
+}
