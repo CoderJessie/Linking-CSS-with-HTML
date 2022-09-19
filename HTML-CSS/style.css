@@ -1,3 +1,7 @@
+* {
+	margin: 0; /* '*' selector resets all margins and all paddings*/
+	padding: 0;
+}
 body {
 	background-color: rgb(255, 247, 201);
 	font-family: Arial;
